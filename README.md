@@ -1,7 +1,7 @@
 # Manoj S
 
 [![Github](https://img.shields.io/github/followers/Manoj977?label=Follow&style=social)](https://github.com/Manoj977)
-
+[![Linkedin](https://img.shields.io/badge/Manoj%20S-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/manoj-s-52562a149)](https://www.linkedin.com/in/manoj-s-52562a149)
 
 ## About me 
 I'm a MERN stack developer. I like to work with React, Firebase, MongoDB, NodeJS . 
@@ -18,7 +18,6 @@ I'm a open-source development enthusiast, an instructor .
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
 
